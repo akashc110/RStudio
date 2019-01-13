@@ -1,0 +1,15 @@
+---
+title: "R Notebook Example"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+
+
+```{r}
+plot(cars)
+```
+
